@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "projects": {
+    "api": "libs/api",
+    "article": "libs/article",
+    "article-list": "libs/article-list",
+    "auth": "libs/auth",
+    "conduit": "apps/conduit",
+    "conduit-e2e": "apps/conduit-e2e",
+    "editor": "libs/editor",
+    "home": "libs/home",
+    "ngrx-error": "libs/ngrx-error",
+    "ngrx-forms": "libs/ngrx-forms",
+    "profile": "libs/profile",
+    "settings": "libs/settings",
+    "shared": "libs/shared"
+  }
+}
